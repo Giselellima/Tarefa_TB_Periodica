@@ -1,0 +1,63 @@
+
+*{
+margin: 2px;
+padding: 0;
+box-sizing: border-box;
+}
+
+header{
+    text-align: center;
+    padding: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+td {
+    width: 70px;
+    height: 70px;
+    min-width: 70px;
+    border: 2px solid transparent;
+    padding: 5px;
+
+    position: relative;
+}
+
+.es{
+    height: 20px;
+}
+/*Cores Tabela Períodica*/
+.nmetais {background-color:#A1D344;}
+.gnobre {background-color:#3D9EE3;}
+.mtalc {background-color:#F1B200;}
+.mtalcterr{background-color: #EADA00}
+.semi {background-color: #4DB6AC}
+.halag {background-color: 	#70CBEB;}
+.oumt {background-color: #A2C7D3;}
+.mttrans {background-color:#EB8E8E;}
+.lant{background-color: #90E3E9;}
+.actn {background-color: #DCADD6;}
+
+.num {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+
+.sbl{
+font-size: 18px;
+font-family:Arial, Helvetica, sans-serif;
+font-weight: 700;
+text-align: center;
+
+}
+
+.nm{
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
